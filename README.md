@@ -1,1 +1,1 @@
-<h1 align="center">Web scrapping da database Vndb https://vndb.org/ usando Node js</h1>
+<h1 align="center">Vndb Web scraping https://vndb.org/ </h1>
