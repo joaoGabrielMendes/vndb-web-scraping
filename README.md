@@ -14,6 +14,8 @@ web project with study purpose
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Chrakra UI](https://chakra-ui.com/)
+- [Express](https://expressjs.com/)
+- [cheerio](https://cheerio.js.org/)
 - [VNDB -The Visual Novel Database](https://vndb.org/)
 
 ## Installation
