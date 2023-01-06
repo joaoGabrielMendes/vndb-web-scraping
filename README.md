@@ -5,7 +5,7 @@
 ## Demo
 
 <p align="center">
-  <img src='*'>
+  <img src='https://github.com/joaoGabrielMendes/vndb-web-scraping/blob/main/assets/2023-01-06%2009-40-49.gif'>
 </p>
 
 
