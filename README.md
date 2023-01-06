@@ -8,4 +8,4 @@
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Chrakra UI](https://chakra-ui.com/)
-- [VND -The Visual Novel Database](https://vndb.org/)
+- [VNDB -The Visual Novel Database](https://vndb.org/)
