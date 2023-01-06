@@ -1,6 +1,6 @@
 <h1>VNDB web scraping</h1>
 
-web project with study purposeweb project with study purpose
+web project with study purpose
 
 ## Demo
 
