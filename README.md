@@ -1,6 +1,6 @@
 <h1>VNDB web scraping</h1>
 
-<p align="center">Projeto de teste para apreder web scraping usando Node js</p>
+web project to learn web scraping
 
 ## Demo
 
